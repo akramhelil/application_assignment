@@ -28,5 +28,21 @@ Please include the url to your forked repository with the fixed webserver in you
 
 ## References
 
+## How to Run this app
+
+
+- Clone and cd into the project directory then run
+```
+npm install
+```
+
+- once the packages are installed. then run: 
+```
+node index
+```
+- Open you browser:  http://localhost:3000/.
+
+
+
 - [Random Movie Quotes NPM Docummentation](https://www.npmjs.com/package/random-movie-quotes)
 - [How to contribute to a github project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
